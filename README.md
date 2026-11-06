@@ -31,7 +31,7 @@ I am **Phạm Minh Hoàng (Louis Pham)**, a product-minded **Frontend & Mobile D
 
 - 🏆 **Flagship Achievement:** Core Developer / Tech Lead on **[SportHub (SWP391)](https://github.com/louispham812/SWP391_SportsCenter)** — a full-scale multi-sport center management platform featuring **5-role RBAC**, **31+ business modules**, **AI Assistant integration**, and **100% automated test pass rate** (`84/84 JUnit 5` & `25/25 Playwright E2E`).
 - 🎨 **Frontend & UI Craft:** Passionate about clean component architecture, micro-interactions (**Framer Motion**), responsive design (**Tailwind CSS**), and multi-language experiences (**i18next**).
-- ⚙️ **Backend & System Design:** Experienced in **Java 21 / Spring Boot**, **Node.js / Express**, **SQL Server**, concurrency control (**Pessimistic Locking**), and RESTful API security.
+- ⚙️ **Backend & System Design:** Experienced in **Java 21 / Spring Boot**, **Node.js / Express**, **SQL Server**, concurrency control (**Pessimistic Locking**), **Cloudflare R2 CDN**, and RESTful API security.
 - 📫 **Contact me:** **[phamminhhoang812@gmail.com](mailto:phamminhhoang812@gmail.com)**
 
 ---
@@ -53,7 +53,7 @@ I am **Phạm Minh Hoàng (Louis Pham)**, a product-minded **Frontend & Mobile D
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### ⚙️ Backend, Database & AI Integration
+### ⚙️ Backend, Database, Cloud & AI
 <p align="left">
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
   <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -63,7 +63,8 @@ I am **Phạm Minh Hoàng (Louis Pham)**, a product-minded **Frontend & Mobile D
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
-  <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google APIs" />
+  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
 </p>
 
 ### 🧪 Testing, Quality Assurance & DevOps
@@ -72,6 +73,7 @@ I am **Phạm Minh Hoàng (Louis Pham)**, a product-minded **Frontend & Mobile D
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/Oxlint-FFC107?style=for-the-badge&logo=oxc&logoColor=black" alt="Oxlint" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -88,11 +90,12 @@ I am **Phạm Minh Hoàng (Louis Pham)**, a product-minded **Frontend & Mobile D
 - **Backend & Concurrency:** Powered by **Java 21**, **Spring Boot 4**, **Spring Security (Bearer Token + BCrypt)**, and **SQL Server (21 relational tables)** utilizing **JPA Pessimistic Locking (`UPDLOCK`)** to prevent double-booking conflicts in real time.
 - **AI & Testing Excellence:** Integrated **Google Gemini AI Assistant** for smart workout/booking consultation. Verified by **84/84 JUnit 5 Backend Tests** and **25/25 Playwright E2E Tests** across 7 core business workflows.
 
-### 2. 🎬 [Nore Media — Interactive Digital Media Platform (`nore-media`)](https://github.com/louispham812/nore-media)
-> **Modern Web Application** focused on fluid motion design, multi-language support, and automated lead management.
+### 2. 🎬 [Nore Media — Creative Agency & Client Progress Platform (`nore-media`)](https://github.com/louispham812/nore-media)
+> **Interactive Digital Media Portfolio & Project Tracking Portal** with bi-directional Google Sheets sync and Cloudflare R2 media delivery.
 
-- **UI & Motion Design:** Crafted smooth transitions and interactive showcases using **React 18**, **Framer Motion**, **Plyr React** video player, and **i18next** internationalization.
-- **Backend & Automation:** Integrated **Express.js** backend with **Rate Limiting**, **Nodemailer**, **Google Sheets API** synchronization, and **Playwright** automated demo recording & testing.
+- **UI, Motion & Media CDN:** Crafted fluid page transitions using **React 18**, **Framer Motion 14**, **Plyr React** video player, **i18next** bilingual support (VI/EN), and automated **WebP** asset optimization on **Cloudflare R2 CDN**.
+- **Admin & Client Progress Portal:** Built a custom zero-dependency **HMAC-SHA256 JWT (`timingSafeEqual`)** authentication system for Admin KPI management and real-time Client project progress tracking backed by **Google Sheets API v4** with TTL caching.
+- **Resilient Lead Pipeline:** Engineered an **Express.js** contact pipeline with IP Rate Limiting, Honeypot bot filtering, Exponential Backoff Retry, and **Idempotency-Key** deduplication.
 
 ---
 
