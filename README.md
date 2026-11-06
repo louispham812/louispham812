@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Hoang%20Pham!%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20%26%20Full-Stack%20Developer%20%7C%20React%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Mobile&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Hoang%20Pham!%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%E2%80%A2%20Tailwind%20CSS%20%E2%80%A2%20Framer%20Motion&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 </div>
 
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+%26+Mobile+Developer+%7C+Full-Stack+Capable+%F0%9F%9A%80;Crafting+Modern+UIs+with+React+19%2C+Tailwind+CSS+%26+Framer+Motion;Building+Robust+Backends+with+Java+21%2C+Spring+Boot+%26+SQL+Server;Quality-First+Engineering+with+Playwright+E2E+%26+JUnit+5+%E2%9C%85" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Frontend+Developer+Focused+on+Clean+UI+%26+UX+%F0%9F%8E%A8;Building+Responsive+Web+Apps+with+React+%26+Tailwind+CSS;Creating+Smooth+Animations+with+Framer+Motion+%E2%9C%A8;Always+Learning+%26+Ready+for+New+Challenges+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,79 +27,62 @@
 
 ## 👨‍💻 About Me
 
-I am **Phạm Minh Hoàng (Louis Pham)**, a product-minded **Frontend & Mobile Developer** with strong **Full-Stack engineering experience**. I specialize in building fluid, high-performance user interfaces paired with scalable, test-driven backend architectures.
+Hi! I'm **Phạm Minh Hoàng (Louis Pham)**, a **Frontend Developer** who enjoys building clean, responsive, and interactive web interfaces.
 
-- 🏆 **Flagship Achievement:** Core Developer / Tech Lead on **[SportHub (SWP391)](https://github.com/louispham812/SWP391_SportsCenter)** — a full-scale multi-sport center management platform featuring **5-role RBAC**, **31+ business modules**, **AI Assistant integration**, and **100% automated test pass rate** (`84/84 JUnit 5` & `25/25 Playwright E2E`).
-- 🎨 **Frontend & UI Craft:** Passionate about clean component architecture, micro-interactions (**Framer Motion**), responsive design (**Tailwind CSS**), and multi-language experiences (**i18next**).
-- ⚙️ **Backend & System Design:** Experienced in **Java 21 / Spring Boot**, **Node.js / Express**, **SQL Server**, concurrency control (**Pessimistic Locking**), **Cloudflare R2 CDN**, and RESTful API security.
+- 💻 **Main Focus:** Developing modern user interfaces with **React**, **Tailwind CSS**, and **Framer Motion**.
+- 🤝 **Team & Project Experience:** Experienced in building multi-role web applications, integrating **RESTful APIs**, handling form validation, and collaborating in full-stack team workflows (**Git / GitHub**).
+- 🌱 **Currently Learning:** Deepening my skills in **TypeScript**, **Next.js**, and **React Native** for cross-platform mobile development.
 - 📫 **Contact me:** **[phamminhhoang812@gmail.com](mailto:phamminhhoang812@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech Stack
 
-### 🎨 Frontend, UI/UX & Mobile
+### 🎨 Core Frontend Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Vite_8-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router v7" />
-  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-### ⚙️ Backend, Database, Cloud & AI
+### 🧰 Tools & Worked With in Projects
 <p align="left">
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate JPA" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini AI" />
-  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API" />
-  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
-</p>
-
-### 🧪 Testing, Quality Assurance & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Oxlint-FFC107?style=for-the-badge&logo=oxc&logoColor=black" alt="Oxlint" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Node.js_%2F_Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot_(API)-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 🏟️ [SportHub — Multi-Sport Center Management System (`SWP391_SportsCenter`)](https://github.com/louispham812/SWP391_SportsCenter)
-> **Full-Stack Enterprise Platform** optimizing operations across **5 user roles** (*Member, Receptionist, Coach, Manager, Admin*) with **31+ integrated features**.
+### 1. 🏟️ [SportHub — Sports Center Management Web App (`SWP391_SportsCenter`)](https://github.com/louispham812/SWP391_SportsCenter)
+> **University Capstone Project (SWP391)** — A web application for managing court bookings, memberships, and daily operations at a multi-sport center.
 
-- **Frontend Architecture:** Built with **React 19**, **Vite 8**, **Tailwind CSS**, and **React Router v7** featuring role-based route guards, digital QR/RFID member cards, K80 thermal receipt printing (POS), and body progress/1RM analytics.
-- **Backend & Concurrency:** Powered by **Java 21**, **Spring Boot 4**, **Spring Security (Bearer Token + BCrypt)**, and **SQL Server (21 relational tables)** utilizing **JPA Pessimistic Locking (`UPDLOCK`)** to prevent double-booking conflicts in real time.
-- **AI & Testing Excellence:** Integrated **Google Gemini AI Assistant** for smart workout/booking consultation. Verified by **84/84 JUnit 5 Backend Tests** and **25/25 Playwright E2E Tests** across 7 core business workflows.
+- **Frontend UI & Role-Based Screens:** Built responsive interfaces with **React**, **Vite**, **Tailwind CSS**, and **React Router** for 5 user roles (*Member, Receptionist, Coach, Manager, Admin*).
+- **Key Features Implemented:** Online court booking schedule, membership registration, receptionist POS & check-in screen, coach attendance tracking, and revenue dashboard.
+- **API Integration & Testing:** Connected frontend views with **Spring Boot REST APIs** & **SQL Server**, integrated AI chat consultation, and tested main user flows with **Playwright**.
 
-### 2. 🎬 [Nore Media — Creative Agency & Client Progress Platform (`nore-media`)](https://github.com/louispham812/nore-media)
-> **Interactive Digital Media Portfolio & Project Tracking Portal** with bi-directional Google Sheets sync and Cloudflare R2 media delivery.
+### 2. 🎬 [Nore Media — Creative Agency Portfolio & Project Tracker (`nore-media`)](https://github.com/louispham812/nore-media)
+> **Media Portfolio Website** showcasing commercial video & photography projects with an integrated client progress tracking page.
 
-- **UI, Motion & Media CDN:** Crafted fluid page transitions using **React 18**, **Framer Motion 14**, **Plyr React** video player, **i18next** bilingual support (VI/EN), and automated **WebP** asset optimization on **Cloudflare R2 CDN**.
-- **Admin & Client Progress Portal:** Built a custom zero-dependency **HMAC-SHA256 JWT (`timingSafeEqual`)** authentication system for Admin KPI management and real-time Client project progress tracking backed by **Google Sheets API v4** with TTL caching.
-- **Resilient Lead Pipeline:** Engineered an **Express.js** contact pipeline with IP Rate Limiting, Honeypot bot filtering, Exponential Backoff Retry, and **Idempotency-Key** deduplication.
+- **Interactive UI & Animation:** Developed smooth page transitions and gallery layouts using **React**, **Framer Motion**, and **Plyr** video player.
+- **Bilingual Support (VI / EN):** Implemented instant language switching between Vietnamese and English using **react-i18next**.
+- **Contact Form & Progress Portal:** Built a consultation contact form (with email notification) and a dashboard synced with **Google Sheets** via an **Express.js** backend so clients can check their project status.
 
 ---
 
-## 📊 GitHub Analytics & Contributions
+## 📊 GitHub Activity
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=louispham812&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Hoang's GitHub Stats" />
